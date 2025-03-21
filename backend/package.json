@@ -1,0 +1,14 @@
+{
+  "name": "running-man-game",
+  "version": "1.0.0",
+  "description": "A simple web game where a man is running on a road.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "dotenv": "^8.2.0"
+  }
+}
